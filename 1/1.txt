@@ -1,0 +1,5 @@
+bcfvuewfbcg
+
+
+copy con 1.txt
+sc
